@@ -3,7 +3,6 @@ from matplotlib import pyplot as plt
 
 
 def eda(data: pd.DataFrame = None):
-    return
 
     if data is None:
         return
